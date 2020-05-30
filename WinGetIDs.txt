@@ -1,0 +1,109 @@
+Moniker			ID					Description
+---------------------------------------------------------------------------
+.NET Framework		Microsoft.dotNetFramework	
+0 A.D.			WildfireGames.0AD			RTS video game
+7Zip			7zip.7zip				Archive file manager
+Arduino IDE		Arduino.Arduino				
+Assault Cube		RabidViperProductions.AssaultCube	FPS video game
+Atom			GitHub.Atom				Text editor. Use for website.
+Audacity		Audacity.Audacity			Multi-track audio editor/recorder
+Barrier			DebaucheeOpenSourceGroup.Barrier	Software KVM switch
+BlueScreenView		NirSoft.BlueScreenView			BSoD info viewer
+BOINC			UCBerkeley.BOINC			Cluster computing. Donation or home.
+Captura			Captura.Captura				Screen recorder. Simple and great.
+Cerebro			AlexandrSubbotin.Cerebro		Spotlight for Windows. Local search & Siri combined.
+CCleaner		Piriform.CCleaner			Unwanted file & regkey remover
+Chrome			Google.Chrome				Web browser
+Circuit Diagram		CircuitDiagram.CircuitDiagram		Circuit diagram maker
+CMake			Kitware.CMake				Build system generator
+CoreTemp		alcpu.CoreTemp				Processer temperature monitoring
+CPU-Z			CPUID.CPU-Z				CPU stress tester
+CrystalDiskInfo		CrystalDewWorld.CrystalDiskInfo		Disk info, health, and status checker
+Defraggler		Piriform.Defraggler			Defragment HDDs
+Discord			Discord.Discord				VoIP platform
+Ditto			ditto.ditto				Clipboard history
+DockerDesktop		Docker.DockerDesktop			Docker GUI
+Dopamine		Digimezzo.Dopamine			Audio player
+Doxygen			DimitriVanHeesch.Doxygen		Programming documentation generator
+Draw			JGraph.Draw				diagrams.net desktop app
+Dungeon Crawl SS	DCSS.DungeonCrawlStoneSoup		Roguelike game
+EarTrumpet		File-New-Project.EarTrumpet		Volume control app
+f.lux			flux.flux				Warmer screen colour
+File Converter (64 bit) AdrianAllard.FileConverter		Image, video, and audio converter
+Firefox			Mozilla.Firefox				Web browser
+FreeCiv			FreeCiv.FreeCiv				Civilisations clone game
+Geany			Geany.Geany				Lightweight programmer's text editor
+Ghostwriter		WereTurtle.Ghostwriter			Markdown editor
+GIMP			GIMP.GIMP				Image editor
+Git			Git.Git					Distributed project version control
+Git Large File Storage	GitHub.GitLFS				CML spec for managing large files with git
+GitHub CLI		GitHub.cli				GitHub official CML tool
+GitHub Desktop		GitHub.GitHubDesktop			GitHub project desktop app
+GitKraken		Axosoft.GitKraken			Git GUI client with great visualisation
+GNU Octave		GNU.Octave				MATLAB clone CML interface
+GPU-Z			TechPowerUp.GPU-Z			GPU vitals viewer
+HackFonts		SourceFoundry.HackFonts			Hack typeface (source code font)
+HWiNFO			REALiX.HWiNFO				Comprehensive hardware analysis, monitoring, and reporting (Windows and DOS)
+Inkscape		Inkscape.Inkscape			Vector graphics editor
+iTunes			Apple.iTunes				Music & media player
+K-Lite Codec Pack Mega	CodecGuide.K-LiteCodecPackMega		Codec pack
+KDEnLive		kdenlive.Release			Video editor. Adobe Premiere Pro clone.
+Leonflix		Leonflix.Leonflix			Web video crawler for finding media
+LibreOffice		LibreOffice.LibreOffice			Open source office suite
+LICEcap			Cockos.LICEcap				Desktop capture GIF creator
+Lidarr			TeamLidarr.Lidarr			Audio file manager
+LMMS			LMMS.LMMS				Digital audio workstation for making music
+Logitech Harmony Remote	Logitech.Harmony			Unversal remote for smart tv, lights, etc...
+MacType			MacType.MacType				OSX-style font rendering
+Malwarebytes		Malwarebytes.Malwarebytes		Anti-malware
+Maxima			MaximaTeam.Maxima			Powerful algebraic calculator
+Microsoft Teams		Microsoft.Teams				Communications platform
+MS Git Cred Manager	Microsoft.GitCredentialManagerforWindows Git credential manager
+Minecraft Launcher	Mojang.Minecraft			Minecraft video game
+Musescore		Musescore.Musescore			Sheet music creator
+MySQL			Oracle.MySQL				SQL database server
+NBTExplorer		Jaquadro.NBTExplorer			Minecraft graphical .NBT editor
+Notepad++		Notepad++.Notepad++			Text and source code editor
+Nvidia GeForceExp	Nvidia.GeForceExperience		Nvidia driver manager
+OBSStudio		OBSProject.OBSStudio			Screen recording and streaming software
+OpenRA			OpenRA.OpenRA				Command & Conquer clone game
+OpenTTD			OpenTTD.OpenTTD				Transport Tycoon Deluxe clone game
+Opera			Opera.Opera				Web browser
+Plex Media Player	plex.plexmediaplayer			Media player for plex servers
+PowerToys		Microsoft.PowerToys			Power user utility set
+Premium Markdown Editor Caret.Caret				Markdown editor
+PuTTY			PuTTY.PuTTY				SSH and Telnet client with xterm terminal emulator
+Python			Python.Python				Programming language
+qBittorent		qBittorrent.qBittorrent			Lightweight torrenting software
+QuickLook		QL-Win.QuickLook			MacOS quick look. Space to preview files.
+Rufus			Rufus.Rufus				Bootable drive creator
+Slack			SlackTechnologies.Slack			Business communications platform
+SoundSwitch		AntoineAflalo.SoundSwitch		Switch playback and recording devices with hotkeys
+Sourcetree		Atlassian.Sourcetree			Git desktop client with good, simple visualisation
+Speccy			Piriform.Speccy				Lightweight system hardware information viewer
+SpeedCrunch		SpeedCrunch.SpeedCrunch			Nice scientific calculator
+Spotify			Spotify.Spotify				Online audio player
+Steam			Valve.Steam				Video game distribution platform
+StreamlabsOBS		Streamlabs.StreamlabsOBS		Screen recording and streaming software
+SUMo			KCSoftwares.SUMo			Software update monitor. Checks installed software for updates
+Tailscale		tailscale.tailscale			Wireguard connector (VPN tunnel)
+TeXstudio		TeXstudio.TeXstudio			LaTeX editor
+TreeSize Free		JAMSoftware.TreeSizeFree		Disk space visualiser. See which files are taking up space.
+Typora			Typora.Typora				Markdown editor
+UniFi Controller	Unifi.Controller			Network visualiser and analyser
+VcXsrv			marha.VcXsrv				Windows X server
+vim			vim.vim					CML text editor
+VLC			VideoLAN.VLC				Media player
+VMware WS Player	VMware.WorkstationPlayer		VM creator
+Vrew			VoyagerX.Vrew				Simple document-style video editor
+WhatsApp		WhatsApp.WhatsApp			Communications platform
+Windows Terminal	Microsoft.WindowsTerminal		Terminal for cmd, PowerShell, and WSL
+Wireguard		Wireguard.Wireguard			VPN tunnel
+
+
+To be added:
+
+KiTTY			PuTTY fork (SSH Client)
+OpenSSH			Simple SSH CML client
+
+GUI for Winget packages:	https://wingetit.com/
