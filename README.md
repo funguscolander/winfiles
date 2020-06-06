@@ -1,6 +1,6 @@
 # New Windows Installation Files
 ## Windows De-Bloater
-Before configuring a user profile, run the windows debloater found at https://github.com/Sycnex/Windows10Debloater
+Before configuring a user profile run the following windows debloater command in powershell, found at https://github.com/Sycnex/Windows10Debloater
 
     iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
 
