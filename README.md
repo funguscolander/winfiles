@@ -12,4 +12,4 @@ Winget is currently unreleased and must be installed from the [winget-cli](https
 ## Global Hotkeys
 Contains global hotkeys for media (pause/play, next, and previous) and swaps the Left Control and Caps Lock keys
 
-Link to from C:\Users\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Link to from C:\Users\\\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
