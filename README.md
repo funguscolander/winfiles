@@ -10,6 +10,19 @@ Winget app installer files for new windows installations
 Winget is currently unreleased and must be installed from the [winget-cli](https://github.com/microsoft/winget-cli) repository. This repository may be converted to a gist if it is not expanded to become a new Windows installation folder.
 
 ## Global Hotkeys
-Contains global hotkeys for media (pause/play, next, and previous) and swaps the Left Control and Caps Lock keys
+Contains global hotkeys for:
+- Media
+    - <kbd>LCtrl</kbd>+<kbd>LAlt</kbd>+<kbd>LWin</kbd>+<kbd>Space</kbd> = Play/pause
+    - <kbd>LCtrl</kbd>+<kbd>LAlt</kbd>+<kbd>LWin</kbd>+<kbd>C</kbd> = Next track
+    - <kbd>LCtrl</kbd>+<kbd>LAlt</kbd>+<kbd>LWin</kbd>+<kbd>V</kbd> = Previous track
+- Vim
+    - <kbd>CapsLock</kbd> remapped to <kbd>LCtrl</kbd>
+    - <kbd>RCtrl</kbd> remapped to <kbd>CapsLock</kbd>
+- Virtual desktops
+    - <kbd>LCtrl</kbd>+<kbd>LWin</kbd>+<kbd>D</kbd> = New virtual desktop (Windows default)
+    - <kbd>LCtrl</kbd>+<kbd>LWin</kbd>+<kbd>C</kbd> = Move to desktop on the left
+    - <kbd>LCtrl</kbd>+<kbd>LWin</kbd>+<kbd>V</kbd> = Move to desktop on the right
 
-Link to from C:\Users\\\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Link to from the following directory if you want the hotkeys to be always available after rebooting:
+
+    C:\Users\\\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
