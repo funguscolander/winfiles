@@ -7,7 +7,7 @@ Before configuring a user profile run the following windows debloater command in
 ## Winget
 Winget app installer files for new windows installations
 
-Winget is currently unreleased and must be installed from the [winget-cli](https://github.com/microsoft/winget-cli) repository. This repository may be converted to a gist if it is not expanded to become a new Windows installation folder.
+Winget is currently unreleased and must be installed from the [winget-cli](https://github.com/microsoft/winget-cli) repository. As such, this is largely a template repository and will be updated to a usable state upon the full release of winget.
 
 ## Global Hotkeys
 Contains global hotkeys for:
@@ -26,3 +26,6 @@ Contains global hotkeys for:
 Link to from the following directory if you want the hotkeys to be always available after rebooting:
 
     C:\Users\\\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+
+## Gruvbox Theme for WSL
+Running 'bash WSL-base16-gruvbox-dark-hard.sh' will make the theme of the Windows Subsystem for Linux terminal 'gruvbox-dark', code courtesy of [chirskempson](https://github.com/chriskempson/base16-shell). A more comprehensive configuration guide is available in their repository.
